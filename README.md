@@ -50,6 +50,8 @@ This is a logarithmic function and so the efficiency is **O( log<sub>2</sub>(n) 
 
 For a list of 1,000,000 elements, the search would only require 20 iterations. Obviously the big caveat is that the list must be sorted before this technique will work.
 
+![Binary Search Comic](https://pbs.twimg.com/media/EXVngkTUcAAa_6K?format=jpg&name=large)
+
 ## Sorting
 There are many sorting techniques, with different advantages and disadvantages. We are not going to look at all of them but look at a few of the more well-known algorithms.
 
